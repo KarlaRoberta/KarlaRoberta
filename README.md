@@ -2,7 +2,7 @@
 
 
 - 👩‍🎓 Futura desenvolvedora front-end
-- 🌱 Estudando as tecnologias de HTML e CSS e Javascript
+- 🌱 Estudando as tecnologias Javascript, TypeScript e Angular
 - 📫 Contate-me no email : karlarobertati@gmail.com
 - 😄 Pronomes: ela/dela
 
